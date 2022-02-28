@@ -5,11 +5,13 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10Day1Demo-Manual", "Week10Day1Demo-Manual\Week10Day1Demo-Manual.csproj", "{2B51EC23-C23E-401A-B0B5-AAED6063B52A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10Day1Demo-EfCore", "Week10Day1Demo-EfCore\Week10Day1Demo-EfCore.csproj", "{0957718C-87F0-44F0-9A34-19C6C5243F07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10Day1Demo-EfCore", "Week10Day1Demo-EfCore\Week10Day1Demo-EfCore.csproj", "{0957718C-87F0-44F0-9A34-19C6C5243F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10Day1Demo-EfCore-DbFirst", "Week10Day1Demo-EfCore-DbFirst\Week10Day1Demo-EfCore-DbFirst.csproj", "{8BBDD4BC-E794-4AE3-8426-52FF3B2AE717}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10Day1Demo-EfCore-DbFirst", "Week10Day1Demo-EfCore-DbFirst\Week10Day1Demo-EfCore-DbFirst.csproj", "{8BBDD4BC-E794-4AE3-8426-52FF3B2AE717}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week10Day1Demo-EfCore-CodeFirst", "Week10Day1Demo-EfCore-CodeFirst\Week10Day1Demo-EfCore-CodeFirst.csproj", "{095D6983-0C9F-426E-9539-E5D2922EC425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week10Day1Demo-EfCore-CodeFirst", "Week10Day1Demo-EfCore-CodeFirst\Week10Day1Demo-EfCore-CodeFirst.csproj", "{095D6983-0C9F-426E-9539-E5D2922EC425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfRelationshipDemo", "EfRelationshipDemo\EfRelationshipDemo.csproj", "{872CF8FA-76A5-49E6-A25A-0FC9CCEFDC54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{095D6983-0C9F-426E-9539-E5D2922EC425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{095D6983-0C9F-426E-9539-E5D2922EC425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{095D6983-0C9F-426E-9539-E5D2922EC425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872CF8FA-76A5-49E6-A25A-0FC9CCEFDC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872CF8FA-76A5-49E6-A25A-0FC9CCEFDC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872CF8FA-76A5-49E6-A25A-0FC9CCEFDC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872CF8FA-76A5-49E6-A25A-0FC9CCEFDC54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
