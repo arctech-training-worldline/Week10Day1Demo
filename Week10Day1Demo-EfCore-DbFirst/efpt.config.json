@@ -1,0 +1,75 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "ApplicationDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Week10Day1Demo_EfCore_DbFirst",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Students]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AddOrder]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteOrder]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[EditOrder]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetId]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetStudentByRollNo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsertStudent]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateStudent]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "desktop-avinash.WorldLineDatabase.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
